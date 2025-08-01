@@ -1,2 +1,10 @@
-# OSM-Phone_GUI
- Pygame GUI launcher
+# OSM-Phone\_GUI
+
+GUI launcher for Linux Smartphones
+
+
+
+
+
+powered by PyGame
+
